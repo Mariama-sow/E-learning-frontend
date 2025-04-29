@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 1.3rem;
+    text-decoration: none;
+    list-style: none;
+}
+
+.body{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cf{
+    position: relative;
+    width: 20rem;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 10px 30px black;
+}
+.fc{
+    width: 30rem;
+    height: 40rem;
+}
